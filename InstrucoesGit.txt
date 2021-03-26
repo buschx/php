@@ -1,0 +1,11 @@
+Qual comando é usado para criar a estrutura de um repositório Git em nossa máquina local?
+
+git init
+
+O comando Git usado para adicionar arquivos ao “staging area” (como uma sala de espera) é o...
+
+git add
+
+Qual comando Git abaixo cria corretamente uma mensagem de confirmação para uma alteração?
+
+git commit -m "Alterei o projeto"
